@@ -1,0 +1,55 @@
+body { 
+    /* background: #C8C8EC;*/
+        background-image: url(".//image/blauw.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        font-family: 'Raleway', 'Helvetica Neue', Sans-serif;
+}
+
+        p{
+           
+            text-align: center;
+            margin: auto;
+            
+            
+        }
+        
+        .h1,h2,h3,h4,h5{
+            font-family: 'Raleway', 'Helvetica Neue', Sans-serif;
+            color:#020238;
+            font-size: 1.5rem;
+            margin: 3px;
+            border: 1px solid #070707;
+            margin-right: 100px;
+            margin-top: 30px;
+            margin-bottom: 20px;
+            text-align: center;
+            border-left: center;
+            
+            margin-left: 1000px;
+            margin:10px;
+            text-align: center;
+            margin-left: auto;
+            margin-right: auto; 
+            border-left: 1000px;
+            border-color: #FF0505;
+            
+        
+        }
+           .Foto{
+          /* display: flex;*/
+          display: inline;
+            justify-content: space-between;
+          /* margin: 0 auto;*/
+           
+            align-content: center;
+           
+           /* text-align: center;*/
+            
+        }
+
+        .Foto img{
+            max-height:387px;
+            max-width: 558px;
+            padding-right: 2%
+        }
